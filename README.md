@@ -1,2 +1,53 @@
-# File-Packer-Unpacker
-This application Is based on Zzpping And unzipping the directory
+<div align="center">
+    <h1>File Packer Unpacker</h1>
+    <!--<i>A collective list of free APIs for use in software and web development</i>-->
+</div>
+
+![](https://i.imgur.com/waxVImv.png)
+
+
+<!--censed Under The  [MIT License](https://github.com/PRASAD-DANGARE/Virtual_File_System/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/PRASAD-DANGARE/Virtual_File_System/blob/main/LICENSE)
+[![Drone](https://drone.grafana.net/api/badges/grafana/grafana/status.svg)](https://github.com/PRASAD-DANGARE/Virtual_File_System/blob/main/Virtual_File_System.cpp)-->
+
+![](https://i.imgur.com/waxVImv.png)
+
+#
+
+### PLATFORM REQUIRED :   
+```
+Windows Platform Or Linux Distributions.
+```
+### ARCHITECTURAL REQUIREMENT :  
+```
+INTEL 32 Bit Processor Or Higher.
+```
+### USER INTERFACE :             
+```
+Command Line Interface and GUI
+```
+### TECHNOLOGY USED : 
+```
+Java Programming
+```
+#
+![](https://i.imgur.com/waxVImv.png)
+
+
+<div align="center">
+    <h1>ABOUT CUSTOMIZED VIRTUAL FILE SYSTEM</h1>
+</div>
+
+![](https://i.imgur.com/waxVImv.png)
+
+#
+
+```
+1) This Application Is Used To Perform Packing And Unpacking Activity For Multiple Types Of Files. 
+
+2) In Case Of Packing Activity I Maintain One File Which Contains Metadata And Data Of Multiple Files From Specified Directory. 
+
+3) In Case Of Unpacking Activity I Extract All Data From Packed Files And According To Its Metadata It Create All Files. 
+
+4) In This Application I Use Java As Frontend As Well As Backend Also For Platform Independency.
+
